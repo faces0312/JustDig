@@ -1,0 +1,3 @@
+[submodule "Assets/Plugins/FaceLib"]
+	path = Assets/Plugins/FaceLib
+	url = https://github.com/faces0312/FaceLib.git
